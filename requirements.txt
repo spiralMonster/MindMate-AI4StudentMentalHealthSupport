@@ -1,0 +1,11 @@
+os
+re
+asyncio
+textwrap
+dotenv
+langchain
+langchain_google_genai
+langchain_core
+langchain_community
+youtube-transcript-api
+chromadb
